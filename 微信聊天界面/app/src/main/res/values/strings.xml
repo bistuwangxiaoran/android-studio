@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">微信聊天</string>
-    <string name="edittext">请输入内容</string>
-    <string name="bn">发送</string>
-    <string name="bn1">自身</string>
-    <string name="bn2">对方</string>
-</resources>
