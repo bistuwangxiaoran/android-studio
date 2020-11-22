@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_column="0"
+        android:layout_row="0"
+        android:text="@string/parameter1"/>
+    <EditText
+        android:id="@+id/parameter1"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:hint="@string/parameter1_default"
+        android:autofillHints="no"
+        android:inputType="text" />
+    <TextView
+        android:layout_column="0"
+        android:layout_row="1"
+        android:text="@string/parameter2" />
+    <EditText
+        android:id="@+id/parameter2"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:hint="@string/parameter2_default"
+        android:enabled="false"
+        android:autofillHints="no"
+        android:inputType="text" />
+    <TextView
+        android:layout_column="0"
+        android:layout_row="2"
+        android:text="@string/parameter3" />
+    <EditText
+        android:id="@+id/parameter3"
+        android:layout_column="1"
+        android:layout_row="2"
+        android:hint="@string/parameter3_default"
+        android:autofillHints="no"
+        android:inputType="text" />
+    <Button
+        android:id="@+id/send"
+        android:layout_column="0"
+        android:layout_row="3"
+        android:text="@string/send"/>
+    <TextView
+        android:id="@+id/show"
+        android:layout_column="0"
+        android:layout_row="4"/>
+</GridLayout>

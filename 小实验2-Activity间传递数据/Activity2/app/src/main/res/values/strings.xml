@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activity间的数据传递</string>
+
+    <string name="parameter1">第一个参数：</string>
+    <string name="parameter1_default">1</string>
+    <string name="parameter2">第二个参数：</string>
+    <string name="parameter2_default">+</string>
+    <string name="parameter3">第三个参数：</string>
+    <string name="parameter3_default">3</string>
+    <string name="send">传递</string>
+    <string name="send_back">回传</string>
+
+</resources>

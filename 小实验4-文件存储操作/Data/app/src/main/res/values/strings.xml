@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data</string>
+    <string name="Save">保存数据</string>
+    <string name="Read">读取数据</string>
+    <string name="sid">学号</string>
+    <string name="name">姓名</string>
+</resources>

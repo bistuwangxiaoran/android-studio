@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentService</string>
+    <string name="Thread1_start">线程1启动（开始计时）</string>
+    <string name="Thread2_start">线程2启动（开始计时）</string>
+</resources>
