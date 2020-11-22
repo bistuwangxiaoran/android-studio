@@ -1,0 +1,25 @@
+com/example/wordbook/WordsProvider.java
+ com.example.wordbook.WordsProvider
+com/example/wordbook/MainActivity.java
+ com.example.wordbook.MainActivity
+ com.example.wordbook.MainActivity$1
+ com.example.wordbook.MainActivity$2
+ com.example.wordbook.MainActivity$EditFormClass
+ com.example.wordbook.MainActivity$EditFormClass$1
+ com.example.wordbook.MainActivity$EditFormClass$2
+ com.example.wordbook.MainActivity$EditFormClass$3
+ com.example.wordbook.MainActivity$EditFormClass$4
+ com.example.wordbook.MainActivity$SearchFormClass
+ com.example.wordbook.MainActivity$SearchFormClass$1
+ com.example.wordbook.MainActivity$SearchFormClass$2
+ com.example.wordbook.MainActivity$SearchFormClass$3
+ com.example.wordbook.MainActivity$ViewFormClass
+ com.example.wordbook.MainActivity$ViewFormClass$1
+ com.example.wordbook.MainActivity$WordFormClass
+ com.example.wordbook.MainActivity$WordFormClass$1
+ com.example.wordbook.MainActivity$WordFormClass$2
+ com.example.wordbook.MainActivity$WordFormClass$3
+com/example/wordbook/DBHelper.java
+ com.example.wordbook.DBHelper
+com/example/wordbook/BuildConfig.java
+ com.example.wordbook.BuildConfig

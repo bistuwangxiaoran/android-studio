@@ -1,0 +1,11 @@
+com/example/songs_player/BuildConfig.java
+ com.example.songs_player.BuildConfig
+com/example/songs_player/BeginRotate.java
+ com.example.songs_player.BeginRotate
+ com.example.songs_player.BeginRotate$1
+com/example/songs_player/MainActivity.java
+ com.example.songs_player.MainActivity
+ com.example.songs_player.MainActivity$1
+ com.example.songs_player.MainActivity$2
+ com.example.songs_player.MainActivity$3
+ com.example.songs_player.MainActivity$TimeAxis
